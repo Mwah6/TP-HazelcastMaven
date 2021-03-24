@@ -1,0 +1,10 @@
+hc\Receiver.class
+hc\MembreHazelcast2.class
+hc\MyHazelcastRingbuffer.class
+hc\MembreHazelcast.class
+hc\MyHazelcastMemberApp.class
+hc\ChatClient.class
+hc\ClientHazelcast.class
+hc\SimpleHazelcastMember.class
+hc\Producer.class
+hc\Receiver$1.class
